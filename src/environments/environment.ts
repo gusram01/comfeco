@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  BASE_URL: 'https://comfeco-backend.herokuapp.com',
+  BASE_URL: 'https://comfeco-back.herokuapp.com',
   grant_type: 'password',
   TOKEN_USERNAME: 'comfecoClientId',
   TOKEN_PASSWORD: 'comfeco123',
